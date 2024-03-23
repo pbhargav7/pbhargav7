@@ -16,11 +16,11 @@ Open for exciting opportunities.
 
 - 🌱  Currently enhancing my engineering skills
 - 🌍  Based in Pennsylvania, United States
+- 📨  CV - [Bhargav Patel](https://rb.gy/sh1xyd) 
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
-- 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer.
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
 - 🌍  See my portfolio at [Bhargav Patel](https://www.linkedin.com/in/bhargavpatel07/)
-- 📨  CV - [Bhargav Patel](https://rb.gy/sh1xyd) 
+- 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer.
 
 ### Skills
 
