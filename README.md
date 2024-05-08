@@ -52,6 +52,7 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
     <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
+
 ### Socials 
 
 <p align="left"> 
