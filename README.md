@@ -3,7 +3,6 @@
 <h3 align="center">Innovative Software Engineer, Crafting Tomorrow's Technology 🧑🏻‍💻</h3>
 <!-- =========================================================================================== -->
 <br>
-<br>
 
 <p>💻 I'm a versatile Software Engineer with over 2 years of experience and a Master's in Computer Science from SUNY Binghamton. Thriving in dynamic, fast-paced environments, I excel both independently and as part of collaborative teams, especially in high-demand scenarios where quick turnarounds are the norm. With a deep passion for technology, I've honed my skills across a diverse spectrum of programming languages and web technologies, making me a flexible and adaptable developer.</p>
 <br>
