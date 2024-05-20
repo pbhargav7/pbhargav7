@@ -33,6 +33,7 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
 - 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
 - 🤝  I'm open to collaborating on exciting projects as a Full Stack Developer.
+<br>
 
 <b>Skills</b>
 
@@ -54,10 +55,9 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
     <a href="https://docs.docker.com/get-started/overview/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" /></a>
     <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-
+<br>
 
 <b>Socials</b>
-
 <p align="left"> 
     <a href="https://www.github.com/pbhargav7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/bhargavpatel07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
