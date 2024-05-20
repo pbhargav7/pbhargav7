@@ -25,6 +25,7 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 
 <b>🌐 Let's Connect:</b>
 <p>Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello, feel free to reach out! </p>
+
 - 🌱  Currently enhancing my engineering skills
 - 🌍  Based in Pennsylvania, United States
 - 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5) 
