@@ -33,7 +33,7 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
 - 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
-- 🤝  I'm open to collaborating on exciting projects as aFull Stack Developer.
+- 🤝  I'm open to collaborating on exciting projects as a Full Stack Developer.
 
 <b>Skills</b>
 
