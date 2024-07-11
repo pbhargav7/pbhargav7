@@ -31,7 +31,7 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 - 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5) 
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
-- 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
+- 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/about)
 - 🤝  I'm open to collaborating on exciting projects as a Full Stack Developer.
 <br>
 
