@@ -1,10 +1,10 @@
 <!-- <h1 align="center"> Hey there&nbsp;<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋🏻" height="45" width="45" />, I'm Bhargav Patel 🧑🏻‍💻 </h1> -->
 <h1 align="center"> Hey there! 👋, I'm Bhargav Patel</h1>
-<h3 align="center">Dedicated Software Engineer, Building the Future of Tech 👨‍💻</h3>
+<h3 align="center">Dedicated Business Systems Analyst, Building the Future of Tech 👨‍💻</h3>
 <!-- =========================================================================================== -->
 <br>
 
-<p>💻 I'm a versatile Software Engineer with over 2 years of experience and a Master's in Computer Science. Thriving in dynamic, fast-paced environments, I excel both independently and as part of collaborative teams, especially in high-demand scenarios where quick turnarounds are the norm. With a deep passion for technology, I've honed my skills across a diverse spectrum of programming languages and web technologies, making me a flexible and adaptable developer.</p>
+<p>💻 I'm a versatile Business Systems Analyst with over 6 years of experience and a Master's in Computer Science. Thriving in dynamic, fast-paced environments, I excel both independently and as part of collaborative teams, especially in high-demand scenarios where quick turnarounds are the norm. With a deep passion for technology, I've honed my skills across a diverse spectrum of programming languages and web technologies, making me a flexible and adaptable developer.</p>
 <br>
 
 <b>🚀 Skills & Expertise:</b>
