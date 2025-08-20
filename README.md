@@ -1,68 +1,63 @@
-<!-- <h1 align="center"> Hey there&nbsp;<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋🏻" height="45" width="45" />, I'm Bhargav Patel 🧑🏻‍💻 </h1> -->
 <h1 align="center"> Hey there! 👋, I'm Bhargav Patel</h1>
-<h3 align="center">Dedicated Business Systems Analyst, Building the Future of Tech 👨‍💻</h3>
-<!-- =========================================================================================== -->
+<h3 align="center">Business Systems Analyst | Driving Digital Transformation in Finance & Technology 👨‍💻</h3>
 <br>
 
-<p>💻 I'm a versatile Business Systems Analyst with over 6 years of experience and a Master's in Computer Science. Thriving in dynamic, fast-paced environments, I excel both independently and as part of collaborative teams, especially in high-demand scenarios where quick turnarounds are the norm. With a deep passion for technology, I've honed my skills across a diverse spectrum of programming languages and web technologies, making me a flexible and adaptable developer.</p>
+<p>💼 I'm a Business Systems Analyst with 6+ years of experience delivering scalable, user-centric solutions in banking, capital markets, and wealth management. With a Master's in Computer Science and strong technical expertise, I specialize in bridging the gap between business needs and technical solutions, ensuring smooth collaboration across stakeholders, developers, and end users.</p>
 <br>
 
 <b>🚀 Skills & Expertise:</b>
-<p>Proficient in Java and Java Frameworks, with hands-on experience in AWS services like S3, EC2, and Lambda. My technical proficiency includes Java, Python, C++, React.js, Spring Boot, and more.
-I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new skills, technologies, and roles.</p>
-<br>
-
-<b>📌 Technical Proficiency:</b>
-- Languages: Java 8+, Python, C, C++, HTML5, CSS3, PHP, SQL, XML, JavaScript, TypeScript, PowerShell Scripting
-- Methodologies & Frameworks: Agile, Waterfall, DevOps, OOPs, Scrum, Spring, JDBC, ReactJS, RESTful APIs
-- Tools & OS: Kubernetes, Docker, Jenkins, JIRA, Bitbucket, Eclipse IDE, Git, Zos IBM IDE, Windows, Linux/Unix
-- Cloud Platforms & Databases: AWS, GCP, DB2, PostgreSQL, MySQL, NoSQL, MongoDB</p>
-<br>
-
-<b>🌟 What Drives Me:</b>
-<p>The thrill of solving real-world problems with technology drives me. I believe in the power of software to transform industries and improve lives, and I'm eager to contribute to projects that align with these values.</p>
-<br>
-
-<b>🌐 Let's Connect:</b>
-<p>Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello, feel free to reach out! </p>
-
-- 🌱  Currently enhancing my engineering skills
-- 🌍  Based in Pennsylvania, United States
-- 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5) 
-- ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
-- 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
-- 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/about)
-- 🤝  I'm open to collaborating on exciting projects as a Full Stack Developer.
-<br>
-
-<b>Skills</b>
-
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-    <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="36" height="36" alt="Python" /></a>
-    <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="36" height="36" alt="C++" /></a>
-    <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="36" height="36" alt="PHP" /></a>
-    <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="36" height="36" alt="Spring" /></a>
-    <a href="https://docs.docker.com/get-started/overview/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" /></a>
+<p>
+Experienced in requirement gathering, BRD/FRD creation, UML modeling, data mapping, and end-to-end trade life cycle processes (fixed income, derivatives, and portfolio management). Skilled in Agile/Scrum frameworks with hands-on participation in sprint planning, backlog grooming, QA/UAT coordination, and defect management. Strong ability to translate complex business needs into clear technical deliverables.  
 </p>
 <br>
 
-<b>Socials</b>
+<b>📌 Technical Proficiency:</b>  
+- **Languages:** Java, JavaScript, Python, SQL, C, C++  
+- **Frameworks & Libraries:** ReactJS, Node.js, Vue.js, Express.js, REST APIs  
+- **Cloud & Server:** AWS, GCP, Docker, Microservices, CI/CD  
+- **Databases:** PostgreSQL, MongoDB, Oracle DB, MS SQL Server, RDBMS, NoSQL  
+- **Data & Analytics:** Data Mapping, ETL, Data Validation, Reconciliation, Reporting Tools, Bloomberg Terminal  
+- **Tools & Testing:** JIRA, Confluence, Rally, GitHub, Postman, SOAP UI, JMeter, Selenium (basic), UAT Coordination  
+- **Modeling & Design:** UML (Use Case, Activity, Sequence), MS Visio, Wireframes, Mockups (Figma/Sketcher), GUI Prototyping  
+- **Methodologies:** Agile, Waterfall, RUP, SDLC, Business Process Modeling, Gap Analysis  
+<br>
+
+<b>🌟 What Drives Me:</b>  
+<p>
+I thrive on solving complex business problems through innovative, data-driven solutions. My focus is on designing systems that improve efficiency, streamline workflows, and create measurable value for organizations and end users.
+</p>
+<br>
+
+<b>🌐 Let's Connect:</b>  
+<p>
+- 🌱 Currently enhancing my expertise in capital markets and cloud-based solutions  
+- 🌍 Based in Pennsylvania, United States  
+- 📨 CV - <a href="https://rb.gy/gudqj5">Bhargav Patel</a>  
+- ✉️ Contact me at <a href="mailto:bhargavptl77@gmail.com">bhargavptl77@gmail.com</a>  
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/bhargavpatel07/">LinkedIn</a>  
+- 🌍 Explore my portfolio at <a href="https://pbhargav7.vercel.app/about">Bhargav Patel</a>  
+- 🤝 Open to collaborating on impactful projects in finance, technology, and full-stack development  
+</p>
+<br>
+
+<b>Skills</b>  
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://www.python.org/doc/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="36" height="36" /></a>
+</p>
+<br>
+
+<b>Socials</b>  
 <p align="left"> 
-    <a href="https://www.github.com/pbhargav7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/bhargavpatel07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- </p>
-
-
-
-
+    <a href="https://github.com/pbhargav7" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/bhargavpatel07" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+</p>
