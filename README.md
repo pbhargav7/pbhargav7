@@ -30,13 +30,13 @@ I thrive on solving complex business problems through innovative, data-driven so
 
 <b>🌐 Let's Connect:</b>  
 <p>
-- 🌱 Currently enhancing my expertise in capital markets and cloud-based solutions  
-- 🌍 Based in Pennsylvania, United States  
-- 📨 CV - <a href="https://rb.gy/gudqj5">Bhargav Patel</a>  
-- ✉️ Contact me at <a href="mailto:bhargavptl77@gmail.com">bhargavptl77@gmail.com</a>  
-- 📫 Connect with me on <a href="https://www.linkedin.com/in/bhargavpatel07/">LinkedIn</a>  
-- 🌍 Explore my portfolio at <a href="https://pbhargav7.vercel.app/about">Bhargav Patel</a>  
-- 🤝 Open to collaborating on impactful projects in finance, technology, and full-stack development  
+- 🌱 Currently enhancing my expertise in capital markets and cloud-based solutions 
+- 🌍 Based in Pennsylvania, United States 
+- 📨 CV - <a href="https://rb.gy/gudqj5">Bhargav Patel</a> 
+- ✉️ Contact me at <a href="mailto:bhargavptl77@gmail.com">bhargavptl77@gmail.com</a> 
+- 📫 Connect with me on <a href="https://www.linkedin.com/in/bhargavpatel07/">LinkedIn</a> 
+- 🌍 Explore my portfolio at <a href="https://pbhargav7.vercel.app/about">Bhargav Patel</a> 
+- 🤝 Open to collaborating on impactful projects in finance, technology, and full-stack development 
 </p>
 <br>
 
