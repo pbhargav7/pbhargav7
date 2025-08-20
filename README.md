@@ -49,6 +49,9 @@ I thrive on solving complex business problems through innovative, data-driven so
     <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="36" height="36" /></a>
     <a href="https://www.python.org/doc/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="36" height="36" /></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="36" height="36" />
+    </a>
     <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" /></a>
     <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" /></a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" /></a>
