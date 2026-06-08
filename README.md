@@ -32,7 +32,7 @@ I thrive on solving complex business problems through innovative, data-driven so
 <ul>
   <li>🌱 Currently enhancing my expertise in <b>capital markets</b> and <b>cloud-based solutions</b></li>
   <li>🌍 Based in <b>Pennsylvania, United States</b></li>
-  <li>✉️ Contact me: <a href="mailto:bhargavpatel8525@gmail.com">bhargavpatel8525@gmail.com</a></li>
+  <li>✉️ Contact me: <a href="mailto:bhargavpatel8998@gmail.com">bhargavpatel8998@gmail.com</a></li>
   <li>📫 Connect with me on <a href="https://www.linkedin.com/in/bhargavpatel07/" target="_blank">LinkedIn</a></li>
   <li>🤝 Open to collaborating on impactful projects in <b>finance, technology, and full-stack development</b></li>
 </ul>
